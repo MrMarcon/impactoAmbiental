@@ -1,0 +1,18 @@
+body {
+    color: #666666;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    line-height: 1.80857;
+    font-weight: normal;
+}
+
+  .banner_main {
+    background-image: url("../../Downloads/banner.jpg");
+    background-repeat: no-repeat;
+    min-height: 840px;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
